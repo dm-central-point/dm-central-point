@@ -28,7 +28,7 @@ include ('site_includes/head.php');
 
 <?php include ('site_includes/sitefooter.php'); ?>
 
-
+<h3> End of page</h3>
 </body>
 <?php
 include ('site_includes/jscodes_includer.php'); 
