@@ -1,0 +1,663 @@
+html, body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    border:none;
+    }
+    
+    body{
+    background:rgb(127, 127, 127);
+    background-image: url("https://www.eagervolunteers.com/images/bckgimg.jpg");
+    background-size:cover;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-position:center; 
+    font-size:0px;
+
+    }
+    
+
+			/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////  FIRSTS BODY MEDIAQUERIES BREAKPOINT / ////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    
+    @media only screen and (min-width:150px) and (max-width: 520px){
+    
+    /*[class*="col-"] {
+    width: 100%;
+    } */   
+    
+    .maindiv{
+    width:100%;
+    text-align: center; 
+    margin:0 auto;
+    position: relative;
+    height: auto;
+    }  
+    
+    .maindiv::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+    
+
+    .logginform_wrapper h2{
+    background:lightblue;   
+    font-size:20px;
+    background:rgb(55,125,215);
+    color:rgb(222, 222, 222);
+    }
+    
+    .logginform{
+    height:auto; 
+    background:violet;
+    background:rgb(55,55,55);
+    width:50%;
+    min-height:150px;
+    max-width:450px;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom:30px;
+    text-align:center; 
+     }
+     
+    
+    .logginform input[type=text]{
+    width:90%; 
+    height:35px; 
+    font-size:18px; 
+    text-align:center; 
+    color:rgb(245, 245, 245);
+    background:white;
+    background:rgb(85, 85, 85);
+    margin-bottom: 10px;
+    border: 1px solid rgb(55,55,55);
+    border-radius: 5px;
+    }
+    
+    .logginform input[type=password]{
+    width:90%; 
+    height:35px; 
+    font-size:18px; 
+    text-align:center; 
+    color:rgb(245, 245, 245);
+    background:white;
+    background:rgb(85, 85, 85);
+    margin-bottom: 10px;
+    border: 1px solid rgb(55,55,55);
+    border-radius: 5px;
+    }
+    
+    .logginform input[type=email]{
+    width:90%; 
+    height:35px; 
+    font-size:18px; 
+    text-align:center;
+    color:rgb(245, 245, 245);
+    background:white;
+    background:rgb(85, 85, 85);
+    margin-bottom: 10px;
+    border: 1px solid rgb(55,55,55);
+    border-radius: 5px;
+    }
+    
+    .logginform input[type=submit]{
+    width:90%; 
+    height:35px; 
+    font-size:20px; 
+    text-align:center; 
+    background:silver;
+    margin-bottom:20px;
+    cursor:pointer;
+    border: 1px solid rgb(55,55,55);
+    border-radius: 5px;
+    }
+    
+
+    
+    .datamsg{
+    width:100%;
+    max-width: 400px;
+    height:70px;
+    text-align:center;
+    background:yellow;
+    margin: 0 auto;
+    font-size:20px;
+    line-height:50px;
+    display: block;
+    }
+    
+    .register{
+    width:500px; 
+    height:200px; 
+    text-align:center;
+    margin: 0 auto; 
+    background:white;
+    border: 2px solid black;
+    font-size:30px;
+    font-weight:bold;
+    }
+    
+    } 
+    
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////  SECOND BODY MEDIAQUERIES BREAKPOINT / ////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    
+    
+    @media only screen and (min-width:521px) and (max-width: 768px){
+    
+    /*[class*="col-"] {
+    width: 100%;
+    }  */  
+    
+  
+    
+
+    
+    .datamsg{
+    width:50%;
+    height:150px;
+    text-align:center;
+    background:yellow;
+    margin: 0 auto;
+    font-size:20px;
+    line-height:140px;
+    margin-top:50px;
+    display: block;
+    }
+    
+    .register{
+    width:500px; 
+    height:200px; 
+    text-align:center;
+    margin: 0 auto; 
+    background:white;
+    border: 2px solid black;
+    font-size:30px;
+    font-weight:bold;
+    }
+    
+    
+    
+    
+    } 
+    
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////  THIRD BODY MEDIAQUERIES BREAKPOINT   /////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    
+    
+    @media only screen and (min-width:769px) and (max-width: 1024px){
+    
+    /*[class*="col-"] {
+    width: 100%;
+    }  */  
+
+    
+
+    
+    
+    .backlink{
+    width:100%;
+    } 
+
+    
+    
+    .datamsg{
+    width:50%;
+    height:150px;
+    text-align:center;
+    background:yellow;
+    margin: 0 auto;
+    font-size:20px;
+    line-height:140px;
+    margin-top:50px;
+    display: block;
+    }
+    
+    .register{
+    width:500px; 
+    height:200px; 
+    text-align:center;
+    margin: 0 auto; 
+    background:white;
+    border: 2px solid black;
+    font-size:30px;
+    font-weight:bold;
+    }
+    
+    
+    
+    } 
+    
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////  FOURTH BODY MEDIAQUERIES BREAKPOINT / ////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    
+    
+    @media only screen and (min-width:1025px) and (max-width: 1200px){
+    
+    /*[class*="col-"] {
+    width: 100%;
+    }  */  
+    
+
+
+    
+    .mainwrapper{
+    position:relative;
+    display:block;
+    width:90%;
+    margin:0 auto;
+    }
+    
+    .mainwrapper::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+    
+    .datamsg{
+    width:50%;
+    height:150px;
+    text-align:center;
+    background:yellow;
+    margin: 0 auto;
+    font-size:20px;
+    line-height:140px;
+    margin-top:50px;
+    display: block;
+    }
+    
+    .register{
+    width:500px; 
+    height:200px; 
+    text-align:center;
+    margin: 0 auto; 
+    background:white;
+    border: 2px solid black;
+    font-size:30px;
+    font-weight:bold;
+    }
+    
+    
+    
+    } 
+    
+        	/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////  FIFTH BODY MEDIAQUERIES BREAKPOINT   /////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+            /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    
+    
+    @media only screen and (min-width:1201px){
+    
+    .maindiv{
+    position:relative;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height:auto; 
+    width:auto;
+    background:rgba(225,225,225, 0.8);
+    text-align:center;
+    }    
+    
+    .maindiv::after{
+    content:""; 
+    clear:both;
+    display:table;
+    }
+    
+    
+    .maindiv p{
+    font-size:16px;
+    }
+    
+    .section_1{
+        margin-top:-40px;
+     width:100%;
+    height:400px;
+    /*background:rgba(77,77,77, 0.8);*/
+    background:none;
+    position:relative;
+    display:block;
+    margin-bottom:100px;
+        
+    }
+    
+    
+        
+    .section_2{
+    width:100%;
+    height:400px;
+    /*background:rgba(77,77,77, 0.8);*/
+    background:none;
+    position:relative;
+    display:block;
+    margin-bottom:100px;
+    
+    }
+    
+        
+    .section_3{
+    width:100%;
+    height:400px;
+    /*background:rgba(77,77,77, 0.8);*/
+    background:none;
+    position:relative;
+    display:block;
+    margin-bottom:100px;
+    
+    }
+    
+    .section_1 p {
+    font-size:16px;
+    }
+    
+    .section_1 h2 {
+    font-size:24px;
+    }
+
+    .section_2 p {
+    font-size:16px;
+    }
+    
+    .section_2 h2 {
+    font-size:24px;
+    }
+    
+    .section_3 p {
+    font-size:16px;
+    }
+
+    .section_3 h2 {
+    font-size:24px;
+    }
+    
+    
+    
+    .top_title{
+        width:100%;
+        color:#555;
+        height:70px;
+        position:relative;
+         background:#ccc;
+    }
+
+    .left_hand{
+        float:left;
+        width:30%;
+        height:auto;
+        min-height:300px;
+        display:inline;
+        position:relative;
+        background:lightblue;
+     
+    }
+    
+    .right_hand{
+        display:inline;
+        float:left;
+        width:70%;
+        height:auto;
+        min-height:300px; 
+        position:relative;
+        text-align:justify;
+        background:yellow;
+     
+    }
+    
+    .navlinks{
+    color:blue;
+    }
+    
+    
+    .mainwrapper{
+    position:relative;
+    background:none;
+    width:70%;
+    margin:0 auto;
+    }
+    
+    
+    .mainwrapper::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+    
+
+    
+    
+    
+    .datamsg{
+    width:50%;
+    height:150px;
+    text-align:center;
+    background:yellow;
+    margin: 0 auto;
+    font-size:20px;
+    line-height:140px;
+    margin-top:50px;
+    display: block;
+    }
+    
+    .register{
+    width:500px; 
+    height:200px; 
+    text-align:center;
+    margin: 0 auto; 
+    background:white;
+    border: 2px solid black;
+    font-size:30px;
+    font-weight:bold;
+    }
+     .logginform_wrapper h2{
+    background:lightblue;   
+    font-size:20px;
+    background:rgb(55,125,215);
+    color:rgb(222, 222, 222);
+    }
+    
+    .contactform{
+    height:auto; 
+    background:violet;
+    background:rgb(55,55,55);
+    width:50%;
+    min-height:150px;
+    max-width:450px;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom:30px;
+    text-align:center; 
+     }
+     
+    
+    .contactform input[type=text]{
+    width:90%; 
+    height:35px; 
+    font-size:18px; 
+    text-align:center; 
+    color:rgb(245, 245, 245);
+    background:white;
+    background:rgb(85, 85, 85);
+    margin-bottom: 10px;
+    border: 1px solid rgb(55,55,55);
+    border-radius: 5px;
+    }
+    
+    .contactform input[type=password]{
+    width:90%; 
+    height:35px; 
+    font-size:18px; 
+    text-align:center; 
+    color:rgb(245, 245, 245);
+    background:white;
+    background:rgb(85, 85, 85);
+    margin-bottom: 10px;
+    border: 1px solid rgb(55,55,55);
+    border-radius: 5px;
+    }
+    
+
+    .contactform input[type=submit]{
+    width:90%; 
+    height:35px; 
+    font-size:20px; 
+    text-align:center; 
+    background:silver;
+    margin-bottom:20px;
+    cursor:pointer;
+    border: 1px solid rgb(55,55,55);
+    border-radius: 5px;
+    }
+    
+    ::placeholder {
+    color: rgb(225, 255,255);
+    
+    }
+    
+    
+    .password_reset_form{
+    height:auto; 
+    background:violet;
+    background:rgba(55,55,55, 0.7);
+    width:50%;
+    min-height:100px;
+    max-width:400px;
+    min-width: 150px;
+    margin: 0 auto;
+    margin-top:30px;
+    text-align:center; 
+     }
+     
+    
+    .password_reset_form input[type=text]{
+    width:90%; 
+    height:35px; 
+    font-size:18px; 
+    text-align:center; 
+    color:rgb(245, 245, 245);
+    background:white;
+    background:rgb(235, 235, 235);
+    margin-bottom: 10px;
+    border: 1px solid rgb(235,235,235);
+    border-radius: 5px;
+    }
+    
+    .password_reset_form input[type=password]{
+    width:90%; 
+    height:35px; 
+    font-size:18px; 
+    text-align:center; 
+    color:rgb(245, 245, 245);
+    background:white;
+    background:rgb(235, 235, 235);
+    margin-bottom: 10px;
+    border: 1px solid rgb(235,235,235);
+    border-radius: 5px;
+    }
+    
+
+    .password_reset_form input[type=submit]{
+    width:90%; 
+    height:35px; 
+    font-size:20px; 
+    text-align:center; 
+    background:silver;
+    margin-bottom:20px;
+    cursor:pointer;
+    border: 1px solid rgb(55,55,55);
+    border-radius: 5px;
+    }
+    
+                                /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+                                /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+                                /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+                                /*///////////////////////////////////////////////////////////  HERO IMAGE CSS   ////////////////////////////////////////////////////////////////////////*/
+                                /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+                                /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+                                /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    
+    
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0,0.5), rgba(0, 0, 0, 0.5)), url("https://www.eagervolunteers.com/images/eagervolunteers_hero.jpg");
+  height:500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+    
+    
+    
+    }
+    
+    
+                            	/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+                                /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+                                /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+                                /*///////////////////////////////////////////////////////////  GENERAL BODY CSS   //////////////////////////////////////////////////////////////////////*/
+                                /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+                                /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+                                /*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+    
+   
+ 
+    .error_message{
+    color:red;
+    }
+
+  
+   
+  
+  
+   
+   

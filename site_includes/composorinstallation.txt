@@ -1,0 +1,16 @@
+Destination location:
+      C:\xampp\htdocs\thedminfopoint
+
+PHP version 8.2.4
+      C:\xampp\php\php.exe
+
+Proxy: none
+
+Add to System path: 
+      C:\xampp\php
+
+Add to System path: 
+      C:\xampp\htdocs\thedminfopoint
+
+Add to User [Twiga Vision] path: 
+      C:\Users\Twiga Vision\AppData\Roaming\Composer\vendor\bin

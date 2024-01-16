@@ -1,0 +1,424 @@
+
+	@media only screen and (min-width:150px) and (max-width: 520px){
+
+	/*[class*="col-"] {
+	width: 100%;
+	} */   
+		
+	.maindiv{
+	width:100%;
+	text-align: center; 
+	border-radius:0px;
+	margin:0 auto;
+	position: relative;
+	height: auto;
+	min-height: 300px;
+	}  
+
+	#dynamicpics{
+	width:100%;
+	height:100%;
+	}
+
+	.semidiv3{
+	background:rgb(77, 77, 77);
+	width:100%;
+	min-height:300px;
+	display:block;
+	margin:0 auto;
+	}
+
+	.accformgeneral{
+	display: none;
+	}
+	
+	#accformgeneral{
+	display: block;
+	}
+
+	.accform_edit{
+	width:100%;
+	min-width:300px;
+	height:auto;
+	min-height:350px;
+	text-align:center;
+	position:relative;
+	z-index:3000;
+	text-align:center;
+	background:lightgreen;
+	margin:0 auto;
+	border:none;
+	padding-top:20px;
+	}
+
+	.form_loader{
+	 display:none;
+	}
+
+	.semidiv2{
+	width:80%; 
+	min-width: 200px; 
+	height:auto;
+	display:block;
+	text-align:center;
+	margin:0 auto;
+	}
+
+	.linkv{
+	width:80%; 
+	margin-bottom:10px;  
+	padding:5px; 
+	line-height:20px; 
+	font-size:16px;
+	}
+	} 
+
+	@media only screen and (min-width:521px) and (max-width: 768px){
+
+/*[class*="col-"] {
+	width: 100%;
+	}  */  
+
+	.maindiv{
+	width:100%;
+	text-align: center; 
+	border-radius:0px;
+	margin:0 auto;
+	position: relative;
+	}  
+
+	#dynamicpics{
+	width:100%;
+	height:100%;
+	}
+
+	.semidiv3{
+	width:30%;
+	display:inline-block;
+	float:left;
+	margin-top: 10px;
+	margin-left: 2.5%;
+	}
+
+	.semidiv2{
+	width:90%; 
+	height:auto;
+	display:block;
+	margin-top: 10px;
+	}
+	.semidiv2 h3{
+	background:darkorange; 
+	margin:0 auto;
+	font-size: 16px;
+	}
+
+	.linkv{
+	width:90%; 
+	margin-bottom:10px;  
+	padding:5px; 
+	line-height:20px; 
+	font-size:16px;
+	margin-bottom:10px;
+	}
+	#accformgeneral{
+	width:100%;
+	height:auto;
+	min-height:400px;
+	text-align:center;
+	background: yellow;
+	z-index:3000;
+	padding:20px;
+	margin:0 auto;
+	border:none;
+	position: relative;
+	display: block;
+	}
+
+
+	.accform_edit{
+	width:100%;
+	max-width:400px;
+	height:auto;
+	min-height:350px;
+	text-align:center;
+	position:relative;
+	z-index:3000;
+	text-align:center;
+	background:lightgreen;
+	margin:0 auto;
+	border:none;
+	padding-top:20px;
+	}
+	} 
+
+
+	@media only screen and (min-width:769px) and (max-width: 1024px){
+	
+	/*[class*="col-"] {
+	width: 100%;
+	}  */  
+
+	.maindiv{
+	width:80%;
+	text-align: center; 
+	border-radius:0px;
+	margin:0 auto;
+	position: relative;
+	}   
+
+	#dynamicpics{
+	width:100%;
+	height:100%;
+	}
+
+	.semidiv3{
+	width:30%;
+	display:inline-block;
+	float:left;
+	margin-top: 10px;
+	margin-left: 2.5%;
+	}
+
+	.semidiv2{
+	width:90%; 
+	height:40px;
+	display:block;
+	margin-top: 10px;
+	}
+
+	.semidiv2 h3{
+	background:darkorange; 
+	margin:0 auto;
+	font-size: 16px;
+	}
+
+	.linkv{
+	width:90%; 
+	margin-bottom:10px;  
+	padding:5px; 
+	line-height:20px; 
+	font-size:16px;
+	margin-bottom:10px;
+	}
+
+	#accformgeneral{
+	display:none;
+	}
+
+	.accform{
+	width:25%;
+	min-width: 400px;
+	height:auto;
+	min-height:350px;
+	text-align:center;
+	background:yellow;
+	left:100px;
+	top:20px;
+	z-index:3000;
+	padding:20px;
+	margin:0 auto;
+	border:none;
+	position: fixed;
+	display: block;
+	}
+
+	.accform_edit{
+	width:25%;
+	min-width:400px;
+	height:auto;
+	min-height:350px;
+	text-align:center;
+	position:relative;
+	z-index:3000;
+	text-align:center;
+	background:lightgreen;
+	margin:0 auto;
+	border:none;
+	padding-top:20px;
+	}
+
+	} 
+
+	@media only screen and (min-width:1025px) and (max-width: 1200px){
+	
+	/*[class*="col-"] {
+	width: 100%;
+	}  */  
+
+	.maindiv{
+	width:80%;
+	text-align: center; 
+	border-radius:0px;
+	margin:0 auto;
+	position: relative;
+	}  
+ 
+
+	#dynamicpics{
+	width:100%;
+	height:100%;
+	}
+
+	.semidiv3{
+	width:30%;
+	display:inline-block;
+	float:left;
+	margin-top: 10px;
+	margin-left: 2.5%;
+	}
+
+	.semidiv2{
+	width:90%; 
+	height:40px;
+	display:block;
+	margin-top: 10px;
+	}
+
+	.semidiv2 h3{
+	background:darkorange; 
+	margin:0 auto;
+	font-size: 16px;
+	}
+
+	.linkv{
+	width:90%; 
+	margin-bottom:10px;  
+	padding:5px; 
+	line-height:20px; 
+	font-size:16px;
+	margin-bottom:10px;
+	}
+
+	#accformgeneral{
+	display:none;
+	}
+
+	.accform{
+	width:25%;
+	min-width: 400px;
+	height:auto;
+	min-height:350px;
+	text-align:center;
+	background:yellow;
+	left:110px;
+	top:20px;
+	z-index:3000;
+	padding:20px;
+	margin:0 auto;
+	border:none;
+	position: fixed;
+	display: block;
+	}
+
+	.accform_edit{
+	width:25%;		
+	min-width:400px;
+	height:auto;
+	min-height:350px;
+	text-align:center;
+	position:fixed;
+	z-index:3000;
+	left:110px;
+	top:20px;
+	padding:20px;
+	margin:0 auto;
+	margin-top:90px;
+	margin-bottom:30px;
+	border:none;
+	background:lightgreen;
+	}
+
+	} 
+
+	@media only screen and (min-width:1201px){
+	
+	/*[class*="col-"] {
+	width: 100%;
+	}  */  
+
+	.maindiv{
+	width:80%;
+	text-align: center; 
+	border-radius:0px;
+	margin:0 auto;
+	position: relative;
+	}  
+
+
+	#dynamicpics{
+	width:100%;
+	height:100%;
+	}
+
+	.semidiv3{
+	width:30%;
+	display:inline-block;
+	float:left;
+	margin-top: 10px;
+	margin-left: 2.5%;
+	}
+
+	.semidiv2{
+	width:90%; 
+	height:40px;
+	display:block;
+	margin-top: 10px;
+	}
+
+	.semidiv2 h3{
+	background:darkorange; 
+	margin:0 auto;
+	font-size: 16px;
+	}
+
+	.linkv{
+	width:90%; 
+	margin-bottom:10px;  
+	padding:5px; 
+	line-height:20px; 
+	font-size:16px;
+	margin-bottom:10px;
+	}
+	#accformgeneral{
+	display:none;
+	}
+	
+	.accform{
+	width:25%;
+	min-width: 400px;
+	height:auto;
+	min-height:350px;
+	text-align:center;
+	background:yellow;
+	left:160px;
+	top:20px;
+	z-index:3000;
+	padding:20px;
+	margin:0 auto;
+	margin-top:130px;
+	margin-bottom:30px;
+	border:none;
+	position: fixed;
+	display: block;
+	}
+
+	.accform_edit{
+	width:25%;		
+	min-width:400px;
+	height:auto;
+	min-height:350px;
+	text-align:center;
+	position:fixed;
+	z-index:3000;
+	left:160px;
+	top:20px;
+	padding:20px;
+	margin:0 auto;
+	margin-top:130px;
+	margin-bottom:30px;
+	border:none;
+	background:lightgreen;
+	}
+
+
+	} 

@@ -1,0 +1,247 @@
+[30-Mar-2019 02:23:12 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:23:12 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:23:12 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:23:12 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:23:12 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:23:12 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:23:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencejanuary2020.php on line 373
+[30-Mar-2019 02:23:13 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:23:13 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:23:13 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:23:13 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:23:13 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:23:13 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencejanuary2020.php on line 373
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:18 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:25 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:25 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:25 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:25 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:25 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:25 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencefebruary2020.php on line 373
+[30-Mar-2019 02:41:26 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:26 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:26 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:41:26 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:26 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:41:26 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:29 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:29 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:29 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:29 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:29 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:29 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencemarch2020.php on line 373
+[30-Mar-2019 02:44:30 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:30 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:30 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:30 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:30 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:30 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencefebruary2020.php on line 373
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:42 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencejanuary2020.php on line 373
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:44:52 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:46:53 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:46:53 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:46:53 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:46:53 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:46:53 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:46:53 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:46:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendenceapril2020.php on line 373
+[30-Mar-2019 02:46:54 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:46:54 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:46:54 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:46:54 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:46:54 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:46:54 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencemay2020.php on line 373
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:49:50 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:51:52 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:51:52 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:51:52 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:51:52 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:51:52 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:51:52 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:51:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencejune2020.php on line 373
+[30-Mar-2019 02:51:53 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:51:53 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:51:53 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:51:53 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:51:53 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:51:53 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencejune2020.php on line 373
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:52:20 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:54:34 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:54:34 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:54:34 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:54:34 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:54:34 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:54:34 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:54:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencejuly2020.php on line 373
+[30-Mar-2019 02:54:35 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:54:35 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:54:35 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:54:35 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:54:35 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:54:35 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:55:30 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:55:30 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:55:30 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:55:30 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:55:30 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:55:30 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:55:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencejuly2020.php on line 373
+[30-Mar-2019 02:55:31 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:55:31 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:55:31 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:55:31 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:55:31 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:55:31 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendenceaugust2020.php on line 373
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 02:57:33 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendenceseptember2020.php on line 373
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:00:10 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendenceseptember2020.php on line 373
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:01:46 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendenceoctober2020.php on line 373
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:07:15 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencenovember2020.php on line 373
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:09:47 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:12:02 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:12:02 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:12:02 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:12:02 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:12:02 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:12:02 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:12:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencedecember2020.php on line 373
+[30-Mar-2019 03:12:03 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:12:03 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:12:03 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:12:03 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:12:03 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:12:03 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pbbfyaiv/public_html/multi_dimension/monthlyattendence/Attendence2020/attendencedecember2020.php on line 373
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(/connect.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(): Failed opening '/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 3
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(/head.php): failed to open stream: No such file or directory in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4
+[30-Mar-2019 03:13:33 UTC] PHP Warning:  include(): Failed opening '/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pbbfyaiv/public_html/site_includes/titlebar.php on line 4

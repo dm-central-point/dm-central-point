@@ -1,0 +1,441 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    border:none;
+}
+
+/* TWELVE COLUMN GRID */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 33.33%;}
+.col-4 {width: 25%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+
+/*MAIN DIV CSS */
+.maindiv{
+height:auto;
+min-height:400px; 
+background:rgb(77, 77, 77); 
+text-align: center; 
+border-radius:0px;
+margin:0 auto;
+border:0.5px solid rgb(77, 77, 77);
+}  
+
+.maindiv::after{
+content:""; 
+clear:both;
+display:table;
+}   
+
+/* FORM CSS*/
+.logginform{
+height:auto; 
+background:violet;
+width:50%;
+min-height:250px;
+max-width:450px;
+min-width: 300px;
+background:violet;
+margin: 0 auto;
+margin-bottom:30px;
+text-align:center; 
+border-radius: 5px;
+}
+
+.logginform_wrapper{
+width:100%;
+min-height:600px;
+position:relative;
+margin: 0 auto;
+background:lightblue;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-content:center;
+align-items:center;
+}
+      
+.logginform_wrapper h2{
+background:lightblue;
+}
+
+.logginform input[type=text]{
+width:80%; 
+height:40px; 
+font-size:18px; 
+text-align:center; 
+background:white;
+margin-bottom: 10px;
+border: 1px solid violet;
+border-radius: 5px;
+forced-color-adjust: burlywood;
+}
+
+.logginform input[type=password]{
+width:80%; 
+height:40px; 
+font-size:18px; 
+text-align:center; 
+background:white;
+margin-bottom: 10px;
+border: 1px solid violet;
+border-radius: 5px;
+}
+
+.logginform .submit{
+width:80%; 
+height:40px; 
+font-size:20px; 
+text-align:center; 
+background:silver;
+margin-bottom:20px;
+margin-top:10px;
+border: 1px solid violet;
+border-radius: 5px;
+}
+
+/*#dynamicpics{
+width:100%; 
+height:800px;} */
+
+.main_title{
+background:blue;
+color:white;
+display:inline-block;
+}
+     
+.linkv{
+display: block;
+max-width: 300px;
+background:rgb(87, 87, 87);
+color:rgb(195, 195, 195);
+text-decoration: none;
+text-align:center;
+margin:0 auto;
+position: relative;
+}
+
+.semidiv3{
+max-height: 300px;
+background:rgb(77, 77, 77); 
+position:relative;
+}
+
+.semidiv2{
+max-width:300px;
+height:40px;
+background:darkorange; 
+display:block;
+text-align:center;
+margin:0 auto;
+}
+
+.semidiv2 h3{
+background:darkorange; 
+margin:0 auto;
+}
+
+
+.activepage {
+line-height:15px;
+width:25px; 
+height:25px;
+font-size:12px;
+}
+
+
+/*CSS FOR ACCOUNTS PAGES*/
+
+.expensesbox{
+width:33%;
+height:auto;
+background:tan;
+margin-right:0;
+position:relative;
+float:right;
+}
+
+#backlink{
+width:100%;
+height:40px;
+top:0;
+text-decoration: none;
+display:block;
+text-align:center;
+position:relative;
+z-index:2000;
+line-height:40px;
+background:rgb(77, 77, 77);
+color:rgb(195, 195, 195);
+}
+
+.backlink{
+display:block;
+background:#cccfff;
+margin: 0 auto;
+height:40px;
+text-align:center;
+line-height:40px;
+width:100%;
+position:relative;
+color:blue;
+} 
+
+#formbtn{
+display: block;
+width:100px;
+height:30px;
+color:black;
+line-height: 30px;
+background: #ccc;
+position:relative;
+margin-top:0;
+float:right;
+text-align:center;
+cursor:pointer;
+z-index:3000;
+}
+
+#accformgeneral{
+
+}
+
+.accform{
+width:25%;
+max-width: 300px;
+height:auto;
+min-height:300px;
+text-align:center;
+background:yellow;
+z-index:3000;
+padding:20px;
+margin:0 auto;
+border:none;
+position: fixed;
+display: block;
+}
+
+.accform input[type=date]{
+width:90%;
+height:30px;
+margin-bottom:10px;
+}
+
+.accform input[type=text]{
+width:90%;
+height: 30px;
+margin-bottom:10px;
+}
+.accform input[type=number]{
+height: 30px;
+width:90%;
+margin-bottom:10px;
+}
+
+.accform #mysubmitbtn{
+width:90%;
+height: 30px;
+margin-bottom:0px;
+}
+
+.accform select{
+width:90%;
+height: 30px;
+margin-bottom:10px;
+}
+
+
+.accform_edit{
+min-width:300px;
+height:auto;
+min-height:350px;
+text-align:center;
+position:fixed;
+z-index:3000;
+background:lightgreen;
+padding-top:20px;
+margin:0 auto;
+border:none;
+}
+
+.accform_edit input[type=date]{
+width:96%;
+height: 30px;
+margin-bottom:10px;
+}
+
+.accform_edit input[type=text]{
+height: 30px;   
+width:96%;
+margin-bottom:10px;
+}
+.accform_edit input[type=number]{
+height: 30px;  
+width:96%;
+margin-bottom:10px;
+}
+
+.accform_edit #mysubmitbtn{
+width:96%;
+height: 30px;
+margin-bottom:0px;
+}
+
+.accform_edit select{
+width:96%;
+height: 30px;
+margin-bottom:10px;
+}
+        
+
+.form_loader{
+width:100%; 
+height:auto;
+text-align:center; 
+background:rgb(77, 77, 77);
+position:relative;
+}
+
+#formbtn{
+display: block;
+width:100px;
+height:30px;
+color:black;
+line-height: 30px;
+background: #ccc;
+position:relative;
+margin-top:0;
+float:right;
+text-align:center;
+cursor:pointer;
+z-index:3000;
+}
+
+.acc_navbar{
+width:100%;
+height:auto;
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
+background:rgb(77, 77, 77);
+position:relative;
+padding:5px;
+z-index:1200;
+text-align:center;
+}
+
+.acc_navbar a{
+width:100px;
+height:30px;
+background:#ccc;
+display:inline-block;
+position:relative;
+margin-top:5px;
+margin-right:1%;
+background:rgb(87, 87, 87);
+color:rgb(195, 195, 195);
+text-align:center;
+line-height:25px;
+text-decoration:none;
+}
+
+.acc_navbar a:hover{
+padding:5px;
+background:#ccc;
+line-height:15px;
+color:red;
+}
+
+.datamsg{
+width:50%;
+height:150px;
+text-align:center;
+background:yellow;
+margin: 0 auto;
+font-size:20px;
+line-height:50px;
+margin-top:50px;
+display: block;
+}
+
+
+
+/*PAGINATION CODES STARTS HERE */
+
+.paginationNumbers a {
+background:lightblue; 
+padding:5px; 
+margin:0;
+line-height:20px; 
+text-align:center; 
+width:30px; 
+height:30px;
+text-decoration:none; 
+border: 1px solid black; 
+border-radius:10px;
+display:inline-block; 
+}  
+
+.paginationNumbers{
+display:inline-block;
+height:30;
+padding:5px; 
+float:left;
+text-align:center;
+background:#cccfff;;
+text-align:center;
+}
+
+.paginationNumbers1{
+display:inline-block;
+position:relative;
+height:30;
+padding:5px; 
+float:left;
+text-align:center;
+background:#cccfff;
+text-align:center;
+}
+
+.pagination{
+position:relative;
+width:100%;
+height:auto;
+background:#cccfff;
+display:flex;
+flex-direction:row;
+justify-content:center;
+align-content:center;
+align-items:center;
+flex-flow: row-wrap;
+}
+
+.navlinks{
+color:blue;
+}
+
+.menumob{
+width:80%;
+height:30px;
+padding:5px;
+font-size:12px;
+line-height:20px;
+margin:0 auto;
+margin-bottom:5px;
+margin-top:5px;
+color:white;
+text-decoration:none;
+background:#666;
+border-radius: 2px;
+display:block;
+}

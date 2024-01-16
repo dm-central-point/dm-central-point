@@ -1,0 +1,1811 @@
+
+[class*="col-"] {
+  float: left;
+}
+		
+/* For mobile phones: */
+@media only screen and (max-width:520px){
+
+        [class*="col-"] {
+        width: 100%;
+        }  
+        
+        .myloginfo{
+        width:90%;
+        }
+         }   
+        /*ACCOUNTS TABLES AND FORMS*/
+        
+        .accform{
+        width:90%;
+        height:auto;
+        text-align:center;
+        left:10px;
+        background:yellow;
+        padding:20px;
+        margin:0 auto;
+        border:none;
+        }
+        
+        .accform_khm{
+        width:90%;
+        height:auto;
+        text-align:center;
+        left:10px;
+        background:yellow;
+        padding:20px;
+        margin:0 auto;
+        border:none;
+        }
+        
+        .accform_main{
+        width:90%;
+        height:auto;
+        text-align:center;
+        left:10px;
+        background:yellow;
+        padding:20px;
+        margin:0 auto;
+        border:none;
+        }
+        
+        
+        .accform_edit{
+        width:90%;
+        height:auto;
+        text-align:center;
+        left:10px;
+        padding:20px;
+        margin:0 auto;
+        border:none;
+        }  
+        
+        
+        
+        .acctable{
+        width:1000px;
+        height:auto;
+        position:relative;
+        background:tan;
+        border:1px solid black;
+        border-collapse:collapse;
+        text-align:left;
+        padding:10px;
+        
+        } 
+        
+        .tablewrapper{
+        width:100%; 
+        height:600px;
+        max-height:800px;
+        background:#ccc; 
+        text-align: center; 
+        border-radius:0px;
+        position:relative;
+        overflow-x:auto;
+        padding:20px;
+        background:#666;
+        }
+        
+        .tablewrapper::after{
+        content:"";
+        clear:both;
+        display:table;
+        }
+        
+        .att_form{
+        width:100%;
+        height:auto;
+        text-align:center;
+        background:bisque;
+        margin-left:10px;
+        border:none;
+        border:1px solid black;
+        }
+        
+        
+        .formwrapper{
+        width:100%;
+        height:400px;
+        text-align:center;
+        background:#eee;
+        padding:20px;
+        margin:0 auto;
+        border:none;
+        text-align:center;
+        display:flex;
+        flex-direction:column;
+        overflow-y:auto;
+        }
+        
+        /*END ACCOUNTS TABLES AND FORMS */
+        
+        .theprofileform {
+        margin-top:30px;
+        width:90%;
+        }
+        
+        .tableheadings{
+        font-size:16px;
+        margin-top:70px;
+        }
+        
+        .maindivtop{
+        margin: 0 auto; 
+      
+        }
+        
+        .maindiv{
+ 
+        }
+        
+        .maindivmaster{
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-content:center;
+        align-items:center;
+        flex-flow: row-wrap;
+        margin: 0 auto; 
+        margin-top:70px;
+        }
+        
+        .mostrecentnews{
+        margin-top:20px;
+        }
+        
+        
+        .recentnewstitle1{
+        height:30px;
+        margin-top:60px;
+        background:#DAF7A6;
+        line-height:20px;
+        
+        } 
+        
+        .recentnewstitle1 h2{
+        background:#DAF7A6;
+        font-size:16px;
+        }
+        
+        
+        .recentnewstitle2{
+        
+        height:30px;
+        background:#DAF7A6;
+        line-height:20px;
+        
+        } 
+        
+        .recentnewstitle2 h2{
+        background:#DAF7A6;
+        font-size:16px;
+        }
+        
+        
+        .tinytitle{
+        
+        }
+        
+        .menudiv{
+        padding-bottom:0;
+        }
+        
+        .menumaindiv{
+        margin-top:0;
+        position:fixed;
+        top:0;
+        z-index:2000;
+        }
+        
+        .titlewrapper {
+        display:none;
+        }
+        
+        
+        .menuwrapper1{
+        display:none;
+        } 
+        
+        .footerwrapper1{
+        display:none; 
+        }   
+        
+        .mobmenu{
+        display:none;
+        }
+        .info2{
+        width:33%;
+        }
+        
+        .menumob{
+            width:98%;
+            background:#666;
+           
+        }
+        
+        
+        .myloginfo h2{
+        font-size:16px;
+        }
+        /*for the profile page*/
+        
+        .profiletable{
+        width:90%; 
+        }
+        
+        .profile{
+        width:100%; 
+        }
+        
+        .headinfo{
+        padding:3px;
+        background:red; 
+        width:100%;
+        }
+        
+        .firstrow{
+        padding:5px;
+        background:violet;
+        }
+        
+        .personalinfo {
+        width: 100%;
+        padding:5px;
+        background:blue;
+        }
+        
+        .personalinfo h4{
+        font-size:11px;
+        padding:5px;
+        
+        }
+        
+        .info{
+        width:100%;
+        height:auto; 
+        float:left; 
+        display:flex;
+        flex-direction: row;
+        flex-grow:2;
+        padding:5px;
+        
+        }
+        
+        .moreinfo{
+        width:43%;
+        height:auto;
+        text-align:right;
+        
+        }
+        
+        
+        .moreinfo h4{
+        font-size:11px;
+        padding:5px;
+        float:left;
+        
+        }
+        
+        
+        .moredetails{
+        width:57%;
+        height:auto;
+        
+        }
+        
+        .moredetails p{
+        font-size:14px;
+        padding:5px;
+        float:left;
+        }
+        
+        .image{
+        width:100%;
+        }
+        
+        .bioinfo{
+        
+        }
+        
+        .bodyinfo{
+        
+        }
+        
+        /* End for the profile page
+        
+        >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+        
+        Start for the update page*/
+        
+        .profile2{
+        width:100%; 
+        }
+        
+        .headinfo2{
+        width:100%; 
+        padding:10px;
+        border-radius:none;
+        }
+        
+        .firstrow2{
+        width:100%;
+        padding:20px;
+        }
+        
+        .personalinfo2{
+        width:90%;
+        margin-bottom:5px;
+        margin-top:20px;
+        }
+        
+        .personalinfo2 h4{
+        font-size:11px;
+        padding:5px;
+        
+        }
+        
+        
+        .info3{
+        width:100%;
+        height:auto; 
+        float:left; 
+        display:flex;
+        background:white;
+        flex-direction: row;
+        flex-grow:2;
+        padding:5px;
+        
+        }
+        
+        .moreinfo2{
+        width:60%;
+        height:auto;
+        text-align:right;
+        }    
+        
+        
+        .moreinfo2 h4{
+        font-size:11px;
+        padding:5px;
+        float:left;
+        
+        }    
+        
+        .moredetails2{
+        width:40%;
+        height:auto;
+        text-align:left;
+        font-size:13px;
+        }    
+        
+        .moredetails2 p{
+        font-size:13px;
+        padding:5px;
+        display:block;
+        float:left;
+        } 
+        
+        .image2{
+        width:100%;
+        }
+        
+        .bioinfo2{
+        width:90%; 
+        }
+        
+        .bodyinfo2{
+        width:90%; 
+        }
+        
+        /* End for the update page*/
+        
+        .footer{
+        width:100%;
+        
+        } 
+        
+        #imagediv{
+        width:100%;
+        height:auto;
+        }   
+        
+        #imagediv img{
+        width:100%;
+        height:auto;
+        }   
+        
+        .mostrecentnews{
+        width:100%;
+        height:auto;
+        }
+        
+        .mainpage{
+        width:100%;
+        height:auto;
+        }
+        
+        .semidiv{
+        width:90%; 
+        height:300px;
+        float:left;
+        margin-top:20px;
+        margin-bottom:0px;
+        
+        }
+        
+        .semidiv1{
+        width:90%; 
+        height:300px;
+        float:right;
+        margin-top:20px;
+        margin-bottom:20px;
+        
+        }
+        
+        
+        .semidiv3{
+        width:90%; 
+        
+        }
+        
+        .footer{
+        height:auto;
+        }
+        
+        .footer::after{
+        content:"";
+        clear:both;
+        display:table;
+        }
+        
+        .partners{
+        width:33%;
+        display:inline-block;
+        background:white;
+        height:200px;
+        }
+        
+        .partners::after{
+        content:"";
+        clear:both;
+        display:table;
+        }
+        
+        
+        .partners3{
+        width:35%;
+        display:inline-block;
+        margin-left:10%;
+        background:white;
+        height:auto;
+        float:left;
+        }
+        
+        
+        .partners img{
+        width:80px;
+        height:80px;
+        }
+        
+        .partners3 img{
+        width:120px;
+        height:120px;
+        }
+        
+        .footerchild-1{
+        width:100%;
+        height:auto;
+        background:white;
+        position:relative;
+        
+        }
+        
+        
+        .footerchild-3{
+        width:100%;
+        height:auto;
+        background:white;
+        position:relative;
+        
+        }
+        
+        .footerchild-3::after{
+        content:"";
+        clear:both;
+        display:table;
+        }
+        
+        .footerchild-2{
+        width:100%;
+        height:50px;
+        background:#454545;
+        line-height:50px;
+        color:white;
+        z-index:3000;
+        }
+        
+        
+        #container{ 
+        
+        height:auto; 
+        
+        }  
+        
+        .radio{
+        display:block;
+        width:80%;
+        background:yellow;
+        margin: 0 auto;
+        }
+        
+        .voluinfo {
+        
+        height:auto;
+        }
+        
+        .fetchmenu4{
+        height:auto;
+        border-right:1px solid black;
+        }
+        
+        .fetchmenu5{
+        height:auto;
+        border-left:1px solid black;
+        }
+        
+        .fetchlink{
+        font-size:16px; 
+        } 
+        
+        .regform{
+        width:100%;
+        }
+        
+        .headings, .headings3, .headings4{
+        text-align:left;
+        background:yellow;
+        }
+        
+        #fetchmenu1-1, #fetchmenu1-2, #fetchmenu2-1, #fetchmenu2-2, #fetchmenu3-1,  #fetchmenu3-2, #fetchmenu4-1 , #fetchmenu4-2{ 
+        width:100%;
+        }
+        
+        .button{
+        width:100%;
+        font-size:16px;
+        background:silver;
+        border-radius:10px;
+        }
+        
+        .pagination .paginationNumbers1{
+        width:100;
+        font-size:12px;
+        position:relative;
+        margin:0;
+        text-align:left;
+        }
+        
+        .activepage {
+        line-height:15px;
+        width:25px; 
+        height:25px;
+        font-size:12px;
+        
+        }
+        
+        .paginationNumbers a {
+        line-height:15px;
+        width:25px; 
+        height:25px;
+        font-size:12px;
+        }  
+        
+        .accountsform{
+        margin-top:10px;
+        margin-bottom:10px;
+        }
+        
+        .menucontainer{
+        display:block;
+        position:relative;
+        width:100%;
+        height:auto;
+        background:yellow;
+        }
+        
+        .onlinewrapper{
+        width:100%;
+        height:50px;
+        }
+        
+        #onlineuser{
+        width:100%;
+        height:100%;
+        background:cyan;
+        border:none;
+        float:right;
+        position:relative;
+        overflow-y:auto;
+        box-sizing: border-box;
+        }
+        
+        .columns{
+        width:100%;
+        height:100px;
+        line-height:80px;
+        padding:20px;
+        font-size:15px;
+        }
+        
+        .columns2{
+        width:100%;
+        height:100px;
+        }
+        
+        .columns3{
+        width:100%;
+        height:100px;
+        padding:10px;
+        font-size:14px;
+        }
+        
+        
+        
+        .h2title{
+        background:darkorange;
+        font-size:17px;
+        }
+        
+        .imgdiv{
+        height:auto;
+        }
+        
+        .thetitle{
+        height:30px;
+        }
+        
+        .isset{
+        display:none;
+        }
+        
+        .mytitles{
+        width:100%;
+        height:30px;
+        background:#404040;
+        color:white;
+        display:inline-block;
+        position:relative;
+        float:left;
+        text-align:center;
+        }
+        
+        }   
+        
+        
+        @media only screen and (min-width: 520px) {
+        
+        .linkwrapper{
+        margin-bottom:40px;
+        }
+        
+        .tablewrapper{
+        width:100%; 
+        height:600px;
+        max-height:600px;
+        text-align: center; 
+        border-radius:0px;
+        position:relative;
+        overflow-x:auto;
+        padding:17px;
+        background:yellow;
+        
+        }
+        
+        .tablewrapper::after{
+        content:"";
+        clear:both;
+        display:table;
+        }
+        
+        .footer2{
+        position:fixed;
+        bottom:0;
+        z-index:3000;
+        }
+        
+        
+        .footerchild-2{
+        position:fixed;
+        bottom: 0;
+        left: 0;
+        z-index: 2000;
+        }
+        
+        
+        
+        .theprofileform {
+        margin-top:30px;
+        width:70%;
+        }
+        
+        
+        .recentnewstitle1{
+        background:#DAF7A6;
+        line-height:20px;
+        height:50px;
+        
+        } 
+        
+        .recentnewstitle1 h2{
+        background:#DAF7A6;
+        margin-top:5px;
+        }
+        
+        
+        .recentnewstitle2{
+        background:#DAF7A6;
+        line-height:20px;
+        height:50px;
+        
+        } 
+        
+        .recentnewstitle2 h2{
+        background:#DAF7A6;
+        margin-top:5px;
+        }
+        
+        
+        .h2title{
+        background:darkorange;
+        font-size:17px;
+        }
+        
+        .menumaindiv{
+        margin-top:70px;
+        }
+        
+        .maindivtop{
+      
+        }
+        
+        
+        .menuwrapper2{
+        display:none;
+        }
+        
+        .footerwrapper2{
+        display:none; 
+        }
+        
+        .footerwrapper1{
+        display:block; 
+        }
+        
+        .profile{
+        width:80%;
+        }
+        
+        .headinfo{
+        width:100%;
+        padding:20px;
+        }
+        
+        .firstrow{
+        width:90%;
+        padding:20px;
+        }
+        
+        .personalinfo{
+        width:100%;
+        margin-bottom:5px;
+        margin-top:20px;
+        }      
+        
+        .personalinfo h4{
+        font-size:12px;
+        padding:5px;
+        
+        }
+        
+        .info{
+        width:50%;
+        }
+        
+        .moreinfo{
+        width:60%;
+        height:auto;
+        text-align:right;
+        }
+        
+        .moredetails{
+        width:35%;
+        height:auto;
+        text-align:left;
+        }
+        
+        
+        .moredetails p{
+        font-size:14px;
+        padding:5px;
+        float:left;
+        }
+        
+        .bioinfo{
+        width:90%; 
+        }
+        
+        .bodyinfo{
+        width:90%; 
+        }
+        
+        
+        /*End for profile page
+        
+        >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+        
+        Start for update page*/
+        
+        .profile2{
+        width:90%;
+        }
+        
+        .headinfo{
+        width:100%;
+        }
+        
+        
+        .firstrow2{
+        padding:10px;
+        }
+        
+        .personalinfo2{
+        width:90%;
+        margin-bottom:5px;
+        margin-top:20px;
+        }    
+        
+        .personalinfo2 h4{
+        font-size:13px;
+        padding:5px;
+        
+        }
+        
+        .info3{
+        width:100%;
+        height:auto; 
+        float:left; 
+        display:flex;
+        background:white;
+        flex-direction: row;
+        padding:5px;
+        } 
+        
+        .moreinfo2{
+        height:auto;
+        text-align:right;
+        }
+        
+        .moredetails2{
+        width:40%;
+        height:auto;
+        text-align:left;
+        }
+        .moredetails2 p{
+        font-size:14px;
+        padding:5px;
+        float:left;
+        }
+        
+        .bioinfo2{
+        width:90%; 
+        }
+        
+        .bodyinfo2{
+        width:90%; 
+        }
+        
+        .image2{
+        width:90%;
+        }
+        
+        
+        /*End for the update page*/
+        
+        
+        .info2{
+        width:33%;
+        
+        }
+        
+        .thetitle{
+        width:50%;
+        }
+        
+        .imgdiv{
+        width:25%;
+        }
+        
+        .loginbar{
+        width:25%;
+        }
+        
+        .footer{
+        width:100%;
+        height:100px;
+        }
+        
+        .infocenter{
+        width:33%;
+        }
+        
+        
+        #imagediv{
+        width:50%;
+        height:auto;
+        }   
+        
+        #imagediv img{
+        width:100%;
+        height:auto;
+        }   
+        
+        .mostrecentnews{
+        width:50%;
+        }
+        
+        .semidiv{
+        width:40%; 
+        height:300px;
+        float:left;
+        margin-left:50px;
+        margin-top:30px;
+        margin-bottom:30px;
+        
+        }
+        
+        .semidiv1{
+        width:40%; 
+        height:300px;
+        float:right;
+        margin-top:30px;
+        margin-bottom:30px;
+        }
+        
+        .semidiv3{
+        width:70%; 
+        
+        }
+        
+        .semidivkhm{
+        width:40%; 
+        height:270px;
+        margin-top:30px;
+        margin-bottom:30px;
+        }
+        
+        .myloginfo{
+        width:70%;
+        }
+        
+        .logginform{
+        width:100%;
+        }
+        
+        .headline{
+        height:auto;
+        }
+        
+        .generalaccountform3{
+        width:80%;
+        }
+        
+        .voluinfo {
+        height:auto;
+        width:50%;
+        }
+        
+        
+        .fetchmenu4{
+        width:50%;
+        border-radius:0;
+        display:flex;
+        flex-direction:column;
+        align-content:center;
+        align-items:center;
+        }
+        
+        .fetchmenu5{
+        width:50%;
+        border-radius:0px;
+        display:flex;
+        flex-direction:column;
+        align-content:center;
+        align-items:center;
+        }
+        
+        .regform{
+        width:70%;
+        }
+        
+        .headings, .headings3, .headings4{
+        text-align:left; 
+        width:100%;
+        }
+        
+        .text_field, .textarea,.options{
+        width:100%;
+        }
+        
+        #fetchmenu1-1, #fetchmenu1-2, #fetchmenu2-1, #fetchmenu2-2, #fetchmenu3-1,  #fetchmenu3-2, #fetchmenu4-1 , #fetchmenu4-2{ 
+        width:90%;
+        
+        }
+        
+        .fetchlink{
+        width:100%;
+        } 
+        
+        .accountsform{
+        margin-top:30px;
+        margin-bottom:30px;
+        }
+        
+        #fetchmenu1main{ 
+        width:80%;
+        }
+        
+        .mincontainer{
+        width:90%; 
+        }
+        
+        #fetchmenu2{
+        
+        width:80%;
+        }
+        
+        #fetchmenu3{
+        width:80%;
+        }
+        
+        #fetchmenu4{
+        width:80%;
+        }
+        
+        .fetchlink{
+        width:31%;
+        } 
+        
+        .fetchlink2{
+        width:45%;
+        }
+        
+        .menucontainer{
+        display:block;
+        position:relative;
+        width:85%;
+        height:auto;
+        background:yellow;
+        }
+        
+        .onlinewrapper{
+        width:15%;
+        height:100px;
+        }
+        
+        
+        #onlineuser{
+        width:100%;
+        height:100%;
+        background:cyan;
+        border:1px solid black;
+        float:right;
+        position:relative;
+        overflow-y:auto;
+        box-sizing: border-box;
+        }
+        
+        .columns{
+        width:100%;
+        height:170px;
+        
+        }
+        
+        .columns2{
+        width:100%;
+        height:170px;
+        }
+        
+        .columns3{
+        width:100%;
+        height:170px;
+        }  
+        
+        .mostrecentnews{
+        width:100%;
+        }
+        
+        #imagediv{
+        width:100%;
+        height:auto;
+        }   
+        
+        #imagediv img{
+        width:100%;
+        height:auto;
+        }
+        
+        #multiphase2{ 
+        width:70%;
+        text-align:center;
+        }
+        
+        #multiphase2 .text{
+        width:90%;
+        margin:0 auto;
+        }
+        
+        #multiphase2 .textarea{
+        width:90%;
+        margin:0 auto;
+        }
+        
+        .phases{ 
+        margin-left:10%;
+        width:80%;
+        height:auto;
+        }
+        
+        .h2title{
+        margin-top:20px;
+        background:darkorange;
+        }
+        
+        .columns{
+        width:100%;
+        height:120px;
+        line-height:80px;
+        padding:20px;
+        font-size:15px;
+        }
+        
+        .columns2{
+        width:100%;
+        height:120px;
+        }
+        
+        .columns3{
+        width:100%;
+        height:120px;
+        padding:10px;
+        font-size:14px;
+        }
+        
+        
+        .accountsform{
+        width:90%;
+        
+        }
+        
+        .myforms{
+        width:90%;
+        }
+        }
+        
+        
+        @media only screen and (min-width: 820px) {
+        
+        
+        /*ACCOUNTS TABLES AND FORMS */
+        .accform{
+        width:25%;
+        height:auto;
+        text-align:center;
+        position:fixed;
+        z-index:3000;
+        left:10px;
+        top:0px;
+        background:yellow;
+        padding:20px;
+        margin:0 auto;
+        margin-top:100px;
+        margin-bottom:30px;
+        border:none;
+        }
+        
+
+        .accform_khm{
+        width:25%;
+        height:auto;
+        text-align:center;
+        position:fixed;
+        z-index:3000;
+        left:10px;
+        top:0px;
+        background:yellow;
+        padding:20px;
+        margin:0 auto;
+        margin-top:90px;
+        margin-bottom:30px;
+        border:none;
+        }
+        
+        .accform_main{
+        width:25%;
+        height:auto;
+        text-align:center;
+        position:fixed;
+        z-index:1000;
+        left:10px;
+        top:0px;
+        background:yellow;
+        padding:20px;
+        margin:0 auto;
+        margin-top:100px;
+        margin-bottom:30px;
+        border:none;
+        margin-top:-550px;
+
+        }
+        
+        .accform_edit{
+        width:25%;
+        height:auto;
+        text-align:center;
+        position:fixed;
+        z-index:3000;
+        left:10px;
+        top:0px;
+        padding:20px;
+        margin:0 auto;
+        margin-top:90px;
+        margin-bottom:30px;
+        border:none;
+        }
+        
+        .accform_khm_edit{
+        width:25%;
+        height:auto;
+        text-align:center;
+        position:fixed;
+        z-index:3000;
+        left:10px;
+        top:0px;
+        padding:20px;
+        margin:0 auto;
+        margin-top:90px;
+        margin-bottom:30px;
+        border:none;
+        }
+        
+        .acctable{
+        width:90%;
+        height:auto;
+        position:relative;
+        background:tan;
+        border:1px solid black;
+        margin:0 auto;
+        border-collapse:collapse;
+        text-align:left;
+        margin-bottom:30px;
+        margin-top:0px;
+        padding:10px;
+        }
+        
+        .acctable_main{
+        width:100%;
+        height:auto;
+        position:relative;
+        background:tan;
+        border:1px solid black;
+        margin:0 auto;
+        border-collapse:collapse;
+        text-align:left;
+        margin-bottom:30px;
+        margin-top:0px;
+        padding:10px;
+        }
+        
+        
+        .att_form{
+        width:100%;
+        height:auto;
+        text-align:center;
+        left:10px;
+        background:bisque;
+        margin:0 auto;
+        border:none;
+        margin-top:20px;
+        margin-bottom:20px;
+        }
+        
+        
+        .formwrapper{
+        width:25%;
+        height:500px;
+        text-align:center;
+        position:fixed;
+        z-index:3000;
+        left:20px;
+        top:0px;
+        padding:5px;
+        margin:0 auto;
+        margin-top:130px;
+        margin-bottom:30px;
+        border:none;
+        overflow-y:auto;
+        }
+        
+        .linkwrapper{
+        margin-bottom:40px;
+        }
+        
+        
+        .tablewrapper{
+        width:100%; 
+        height:500px;
+        max-height:600px;
+        text-align: center; 
+        border-radius:0px;
+        position:relative;
+        overflow-x:auto;
+        background:yellow;
+        
+        }
+        
+        .tablewrapper::after{
+        content:"";
+        clear:both;
+        display:table;
+        }
+        
+        .footer2{
+        position:fixed;
+        bottom:0;
+        z-index:3000;
+        }
+        
+        /*END ACCOUNTS TABLES AND FORMS */
+        
+        .theprofileform {
+        margin-top:30px;
+        width:60%;
+        }
+        
+        .h2title{
+        background:darkorange;
+        font-size:20px;
+        }
+        
+        .menumaindiv{
+        margin-top:70px;
+        }
+        
+        .att_navbar{
+        margin-top:70px;
+        }
+        
+        .att_maindiv{
+        margin-top:0;
+        }
+        .maindivtop{
+       
+        }
+        
+        .maindivtop2{
+        margin-top:110px;
+        }
+        .menuwrapper2{
+        display:none;
+        } 
+        
+        
+        .info3{
+        width:50%;
+        height:auto; 
+        float:left; 
+        display:flex;
+        background:white;
+        flex-direction: row;
+        padding:5px;
+        }
+        
+        .accountsform{
+        width:70%;
+        
+        }
+        
+        .myforms{
+        width:70%;
+        }
+        
+        
+        .fetchmenu4{
+        width:50%;
+        margin-left:6%;
+        border-radius:0;
+        display:flex;
+        flex-direction:column;
+        align-content:center;
+        align-items:center;
+        
+        }
+        
+        
+        .fetchmenu5{
+        width:40%;
+        border-radius:0px;
+        display:flex;
+        flex-direction:column;
+        align-content:center;
+        align-items:center;
+        
+        }
+        
+        #multiphase2{ 
+        width:60%;
+        text-align:center;
+        }
+        
+        .myloginfo{
+        width:80%;
+        }
+        
+        .logginform{
+        width:70%;
+        }
+        .semidiv3{
+        width:60%; 
+        
+        }
+        
+
+        }
+        
+        @media only screen and (min-width: 1024px) {
+        
+        .theprofileform {
+        margin-top:30px;
+        width:40%;
+        }
+        
+        .h2title{
+        background:darkorange;
+        font-size:24px;
+        }
+        
+        
+        .menumaindiv{
+        margin-top:70px;
+        }
+        
+        .menuwrapper2{
+        display:none;
+        }
+        
+        .profile{
+        width:80%;
+        
+        }
+        
+
+        .firstrow{
+        width:100%;
+        padding:20px;
+        padding-top:0;
+        padding-bottom:0;
+        } 
+        
+        .personalinfo{
+        width:75%;
+      
+        }
+        
+        .info{
+        width:50%;
+        background:bisque;
+        }        
+        
+        .moreinfo{
+        width:44%;
+        text-align:right;
+        
+        }        
+        
+        .moreinfo h4{
+        
+        }
+        
+        .moredetails{
+        width:56%;
+        height:auto;
+        text-align:left;
+        }
+        
+        .moredetails p{
+        font-size:14px;
+        padding:5px;
+        display:block;
+        float:left;
+        }
+        
+        .image{
+        width:25%;
+        }
+        
+        .profile2{
+        width:70%;
+        }
+        
+        .headinfo{
+        width:90%;
+        }
+        
+        .firstrow2{
+        padding:10px;
+        }
+        
+        .personalinfo2{
+        width:90%;
+        margin-bottom:5px;
+        margin-top:20px;
+        }    
+        
+        .personalinfo2 h4{
+        font-size:13px;
+        padding:5px
+        }
+        
+        .info3{
+        width:50%;
+        height:auto; 
+        float:left; 
+        display:flex;
+        background:white;
+        flex-direction: row;
+        padding:5px;
+        } 
+        
+        .moreinfo2{
+        height:auto;
+        text-align:right;
+        }
+        
+        .moredetails2{
+        width:40%;
+        height:auto;
+        text-align:left;
+        }
+        .moredetails2 p{
+        font-size:14px;
+        padding:5px;
+        float:left;
+        }
+        
+        .bioinfo2{
+        width:90%; 
+        }
+        
+        .bodyinfo2{
+        width:90%; 
+        }
+        
+        .image2{
+        width:90%;
+        }
+        
+        
+        .semidiv{
+        width:25%; 
+        height:300px;
+        float:right;
+        
+        }
+        
+        .semidiv1{
+        width:25%; 
+        height:300px;
+        float:right;
+        margin-left:50px;
+        }
+        
+        
+        .maindivmaster{
+        display:flex;
+        flex-direction:row-reverse;
+        justify-content:center;
+        align-content:center;
+        align-items:center;
+        flex-flow: row-reverse wrap;
+        padding-bottom:15px;
+        }
+        .semidiv3{
+        width:20%;
+        height:350px;
+        flex:1 1 auto;
+        border:1px black solid;
+        text-align:center;
+        margin:15px; 
+        
+        }
+        
+        .myloginfo{
+        width:100%;
+        }
+        
+        .logginform{
+        width:40%;
+        }
+        
+        .generalaccountform3{
+        width:50%;
+        
+        }
+        
+        .voluinfo {
+        
+        height:auto;
+        width:40%;
+        }
+        
+        .fetchmenu4{
+        width:50%;
+        margin-left:10%;
+        border-radius:0;
+        display:flex;
+        flex-direction:column;
+        align-content:center;
+        align-items:center;
+        
+        }
+        
+        
+        .fetchmenu5{
+        width:30%;
+        border-radius:0px;
+        display:flex;
+        flex-direction:column;
+        align-content:center;
+        align-items:center;
+        
+        }
+        
+        .regform{
+        
+        width:40%;
+        
+        }
+        .headings, .headings3, .headings4{
+        text-align:left; 
+        width:100%;
+        }
+        
+        .text_field, .textarea,.options{
+        width:100%;
+        }
+        
+        .semidivkhm{
+        width:30%; 
+        height:270px;
+        margin-top:30px;
+        margin-bottom:30px;
+        }
+        
+        
+        
+        .columns{
+        width:100%;
+        height:170px;
+        
+        }
+        
+        .columns2{
+        width:100%;
+        height:170px;
+        
+        }
+        
+        .columns3{
+        width:100%;
+        height:170px;
+        
+        }   
+        .mostrecentnews{
+        width:40%;
+        }
+        #imagediv{
+        width:60%;
+        height:auto;
+        
+        }   
+        
+        #imagediv img{
+        width:100%;
+        height:auto;
+        
+        }
+        
+        .footer{
+        width:100%;
+        height:100px;
+        }
+        
+        .accountsform{
+        width:40%;
+        
+        }	  	  
+        .myforms{
+        width:40%;
+        }
+        
+        .accform{
+        width:25%;
+        height:auto;
+        margin-top:90px;
+        margin-bottom:30px;
+        }
+        
+        .acctable{
+        width:90%;
+        margin-top:0px;
+        margin-bottom:30px;
+        
+        }
+        
+        .acctable_main{
+        width:80%;
+        margin-top:0px;
+        margin-bottom:30px;
+        
+        }
+        
+        .tablewrapper{
+        width:100%; 
+        height:500px;
+        max-height:700px;
+        text-align: center; 
+        border-radius:0px;
+        position:relative;
+        overflow-x:auto;
+        background:yellow;
+        
+        }
+        
+        .tablewrapper::after{
+        content:"";
+        clear:both;
+        display:table;
+        }
+        
+        .tablewrapper_main{
+        width:500px; 
+        height:auto; 
+        margin:0 auto;
+        text-align: center; 
+        border-radius:0px;
+        position:relative;
+        overflow-x:auto;
+        background:#666;
+        
+        }
+        
+        .tablewrapper_main::after{
+        content:"";
+        clear:both;
+        display:table;
+        }
+        
+        .footer2{
+        position:fixed;
+        bottom:0;
+        z-index:3000;
+        }
+        
+        
+}
+    
+    
+    
+    
+    
+  
